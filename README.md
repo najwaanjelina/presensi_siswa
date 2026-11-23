@@ -65,14 +65,14 @@ Database: `struktur`
 
 | No. | Skenario Pengujian | Hasil Aktual | Status |
 |---|---|---|---|
-| 1 | Login dengan password salah | [hasil/1.png] | [Berhasil] |
-| 2 | Buka halaman tanpa login | [hasil/2.1.png_hasil/2.2.png] | [Berhasil] |
-| 3 | Tambah siswa dengan NISN 9 digit | [hasil/3.png] | [Berhasil] |
-| 4 | Tambah siswa dengan NISN yang sudah ada | [hasil/4.png] | [Berhasil] |
-| 5 | Tap dengan NISN tidak terdaftar | [hasil/5.png] | [Berhasil] |
-| 6 | Tap dengan NISN valid | [hasil/6.png] | [Berhasil] |
-| 7 | Hapus kelas yang masih memiliki siswa | [hasil/7.png] | [Berhasil] |
-| 8 | Cari siswa berdasarkan sebagian nama | [hasil/8.png] | [Berhasil] |
+| 1 | Login dengan password salah | (hasil/1.png) | [Berhasil] |
+| 2 | Buka halaman tanpa login | (hasil/2.1.png) & (hasil/2.2.png) | [Berhasil] |
+| 3 | Tambah siswa dengan NISN 9 digit | (hasil/3.png) | [Berhasil] |
+| 4 | Tambah siswa dengan NISN yang sudah ada | (hasil/4.png) | [Berhasil] |
+| 5 | Tap dengan NISN tidak terdaftar | (hasil/5.png) | [Berhasil] |
+| 6 | Tap dengan NISN valid | (hasil/6.png) | [Berhasil] |
+| 7 | Hapus kelas yang masih memiliki siswa | (hasil/7.png) | [Berhasil] |
+| 8 | Cari siswa berdasarkan sebagian nama | (hasil/8.png) | [Berhasil] |
 
 ## Pengembang
 Nama: Najwa Anjelina  
